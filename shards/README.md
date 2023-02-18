@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- File names must have spaces.
+- File names must be the name of the map.
 - File formats may be .png, .webp, or .jpg.
 
 ## Credits
