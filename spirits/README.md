@@ -2,9 +2,9 @@
 
 ## Requirements
 
-- The format of a file does not matter.
-- The size must not be over 8 MB.
-- The file names must not have spaces. They should be replaced with `_`.
+- File names must not have spaces. They should be replaced with `_`.
+- File formats may be .png, .webp, or .jpg.
+- File sizes must not exceed 8 MB.
 
 ## Credits
 
