@@ -2,7 +2,7 @@
 
 ## Requirements
 
-- File names must not have spaces. They should be replaced with `_`.
+- File names must be the name of the spirit.
 - File formats may be .png, .webp, or .jpg.
 - File sizes must not exceed 8 MB.
 
