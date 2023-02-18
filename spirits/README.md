@@ -2,9 +2,9 @@
 
 ## Requirements
 
-- File format does not matter.
+- The format of a file does not matter.
 - The size must not be over 8 MB.
-- File names must not have spaces. They should be replaced with `_`.
+- The file names must not have spaces. They should be replaced with `_`.
 
 ## Credits
 
