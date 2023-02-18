@@ -1,5 +1,13 @@
 # Spirits
 
+## Requirements
+
+- File names must not have spaces. They should be replaced with `_`.
+- File formats may be .png, .webp, or .jpg.
+- File sizes must not exceed 8 MB.
+
+## Credits
+
 These images are taken with <img width=20 src="https://user-images.githubusercontent.com/33201955/219646932-47a9f7ff-0102-454c-9410-b30b8eafe5a5.png"> from Sky: CoTL Infographics Database.
 
 <img width=20 src="https://user-images.githubusercontent.com/33201955/219651079-e04f1907-e9bc-4a03-bd85-73d442d19264.png"> [Discord](https://discord.gg/skyinfographicsdatabase)  
